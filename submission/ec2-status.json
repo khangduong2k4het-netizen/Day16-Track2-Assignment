@@ -1,0 +1,26 @@
+[
+    {
+        "Id": "i-07511f7aa7a088c5d",
+        "State": "running",
+        "Type": "t3.micro",
+        "Private": "10.0.0.160",
+        "Tags": [
+            {
+                "Key": "Name",
+                "Value": "AI-Bastion-Host"
+            }
+        ]
+    },
+    {
+        "Id": "i-06645bfd1ecc7a587",
+        "State": "running",
+        "Type": "t3.small",
+        "Private": "10.0.10.156",
+        "Tags": [
+            {
+                "Key": "Name",
+                "Value": "AI-GPU-Inference-Node"
+            }
+        ]
+    }
+]

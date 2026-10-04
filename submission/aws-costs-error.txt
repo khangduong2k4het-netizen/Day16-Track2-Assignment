@@ -1,0 +1,3 @@
+﻿Cost Explorer check: 2026-10-04. AWS profile ai-lab.
+GetCostAndUsage denied: ce:GetCostAndUsage is not granted to the IAM user.
+No cost data obtained. Actual costs remain unverified.

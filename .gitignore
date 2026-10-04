@@ -5,6 +5,7 @@
 crash.log
 crash.*.log
 *.tfvars
+!**/*.example.tfvars
 *.tfvars.json
 override.tf
 override.tf.json
@@ -20,3 +21,6 @@ lab-key.pub
 # Environment Variables
 .env
 .env.local
+
+# Machine-specific SSH config
+terraform/ssh_config
